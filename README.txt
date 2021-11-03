@@ -144,6 +144,7 @@ First navigate to the scripts directory,
 D. Data
 
 The data directory contains excel spreadsheets for data used in the Tables and Figures of the paper.
+We used 494 benchmarks from the QBFEVAL'20 Competition.
 For Figure2,3,4 data, a time of 5000s denotes a timeout.
 
 The data for the submitted paper did not capture the entire QBFEVAL'20 benchmark suite:
