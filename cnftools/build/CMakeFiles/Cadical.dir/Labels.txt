@@ -1,0 +1,13 @@
+# Target labels
+ Cadical
+# Source files and their labels
+/root/cnftools/build/CMakeFiles/Cadical
+/root/cnftools/build/CMakeFiles/Cadical.rule
+/root/cnftools/build/CMakeFiles/Cadical-complete.rule
+/root/cnftools/build/cadical/src/Cadical-stamp/Cadical-install.rule
+/root/cnftools/build/cadical/src/Cadical-stamp/Cadical-mkdir.rule
+/root/cnftools/build/cadical/src/Cadical-stamp/Cadical-download.rule
+/root/cnftools/build/cadical/src/Cadical-stamp/Cadical-update.rule
+/root/cnftools/build/cadical/src/Cadical-stamp/Cadical-patch.rule
+/root/cnftools/build/cadical/src/Cadical-stamp/Cadical-configure.rule
+/root/cnftools/build/cadical/src/Cadical-stamp/Cadical-build.rule
