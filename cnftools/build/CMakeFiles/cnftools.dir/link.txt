@@ -1,0 +1,1 @@
+/root/.gcc/10.2.0/bin/g++  -static   CMakeFiles/cnftools.dir/Main.cc.o  -o cnftools  -Wl,-rpath,/usr/local/lib lib/md5/libmd5.a /usr/local/lib/libarchive.a /root/libbz2_TEMP/bzip2-1.0.6/libbz2.a /usr/lib64/libz.a  cadical/src/Cadical/build/libcadical.a 

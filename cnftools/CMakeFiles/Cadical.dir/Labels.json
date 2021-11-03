@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/media/sf_vbox-shared/tmp/new-def-extract/cnftools/CMakeFiles/Cadical"
+		},
+		{
+			"file" : "/media/sf_vbox-shared/tmp/new-def-extract/cnftools/CMakeFiles/Cadical.rule"
+		},
+		{
+			"file" : "/media/sf_vbox-shared/tmp/new-def-extract/cnftools/CMakeFiles/Cadical-complete.rule"
+		},
+		{
+			"file" : "/media/sf_vbox-shared/tmp/new-def-extract/cnftools/cadical/src/Cadical-stamp/Cadical-install.rule"
+		},
+		{
+			"file" : "/media/sf_vbox-shared/tmp/new-def-extract/cnftools/cadical/src/Cadical-stamp/Cadical-mkdir.rule"
+		},
+		{
+			"file" : "/media/sf_vbox-shared/tmp/new-def-extract/cnftools/cadical/src/Cadical-stamp/Cadical-download.rule"
+		},
+		{
+			"file" : "/media/sf_vbox-shared/tmp/new-def-extract/cnftools/cadical/src/Cadical-stamp/Cadical-update.rule"
+		},
+		{
+			"file" : "/media/sf_vbox-shared/tmp/new-def-extract/cnftools/cadical/src/Cadical-stamp/Cadical-patch.rule"
+		},
+		{
+			"file" : "/media/sf_vbox-shared/tmp/new-def-extract/cnftools/cadical/src/Cadical-stamp/Cadical-configure.rule"
+		},
+		{
+			"file" : "/media/sf_vbox-shared/tmp/new-def-extract/cnftools/cadical/src/Cadical-stamp/Cadical-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Cadical"
+		],
+		"name" : "Cadical"
+	}
+}

@@ -1,0 +1,27 @@
+
+Adder2-8-s
+-
+Solver          Original             Moved                Bloqqer              Moved-Bloqqer       
+caqe            -1.00                -1.00                20.99                24.42               
+depqbf          -1.00                -1.00                -1.00                27.93               
+rareqs          -1.00                -1.00                126.72               23.37               
+ghostq-plain    -1.00                -1.00                -1.00                185.88              
+ghostq-cegar    -1.00                -1.00                -1.00                -1.00               
+
+unit11_3_b
+-
+Solver          Original             Moved                Bloqqer              Moved-Bloqqer       
+caqe            -1.00                6.42                 -1.00                5.82                
+depqbf          -1.00                30.60                -1.00                8.91                
+rareqs          -1.00                7.93                 -1.00                8.13                
+ghostq-plain    280.90               -1.00                -1.00                16.63               
+ghostq-cegar    2.35                 7.64                 -1.00                14.54               
+
+nreachq_query71_1344
+-
+Solver          Original             Moved                Bloqqer              Moved-Bloqqer       
+caqe            258.32               29.62                14.25                33.30               
+depqbf          226.24               185.26               147.92               152.65              
+rareqs          5.62                 29.06                10.36                30.92               
+ghostq-plain    -1.00                -1.00                -1.00                -1.00               
+ghostq-cegar    149.86               113.83               -1.00                -1.00               
