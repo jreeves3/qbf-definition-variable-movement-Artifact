@@ -1,6 +1,7 @@
 This archive provides a demonstration of the tools used in the TACAS 22 submission 
 "Moving Definition Variables in Quantified Boolean Formulas".
 
+Zenodo Archive: https://zenodo.org/record/5733440
 
 A. Files and Directories.
 
